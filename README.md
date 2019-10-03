@@ -6,7 +6,8 @@
 [![npm Version](https://img.shields.io/npm/v/react-autosuggest.svg?style=flat-square)](https://npmjs.org/package/react-autosuggest)
 ![gzip size](http://img.badgesize.io/https://unpkg.com/react-autosuggest/dist/standalone/autosuggest.min.js?compression=gzip&style=flat-square)
 
-# React Autosuggest
+# React Autosuggest for Plotly Dash
+This is a slightly modified version of the React Autosuggest component that supports some additional behavior required for it to integrate with plotly dash applications. 
 
 ## Demo
 
